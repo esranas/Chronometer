@@ -1,2 +1,3 @@
 Simple chronometer
-[chronometer.webm](https://github.com/esranas/Chronometer/assets/69365543/9faad55d-c85e-4a8f-b5b9-b0d45424aa16)
+
+[chronometer.webm](https://github.com/esranas/Chronometer/assets/69365543/122e465f-dc9c-4334-b613-858714d9cde6)
